@@ -6,6 +6,6 @@ The project includes direct working with the 68 facial landmark detector and als
 
 
 <h3>The working of the project</h3>
-As you can see the above screenshot where the landmarks aredetected using the detector.
+As you can see the above screenshot where the landmarks are detected using the detector.
 Now we are taking the ratio which is described as 'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'.
 Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.
